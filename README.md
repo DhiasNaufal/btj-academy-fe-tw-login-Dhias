@@ -17,4 +17,10 @@ btj-academy-fe-DhiasMuhammadNaufal
 |-- tailwind.config.js
 ```
 
-## Latihan Slicing #day2
+## DAY 2 : Latihan Slicing
+
+Pada tugas kali ini, akan mencoba slicing dari design Figma menjadi sebuah tampilan dengan menggunakan Framwork `tailwind css`.
+
+### Hasil Slicing
+
+![Hasil Slicing](/src/assets/img/Slicing.png)
